@@ -1,0 +1,9 @@
+
+.fas.fa-edit.fa-lg::before{
+    color: #17a2b8;
+}
+
+.fas.fa-trash.fa-lg::before{
+    color: #dc3545;
+}
+
